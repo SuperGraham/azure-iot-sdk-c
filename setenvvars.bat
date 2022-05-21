@@ -1,0 +1,2 @@
+set IOTHUB_DEVICE_CONNECTION_STRING=HostName=iothub-iot-tracking.azure-devices.net;DeviceId=IoTDevice;SharedAccessKey=sgdByYrfC2ffLXWQ9yodCrZUBfygZMxCHoVyyNjyO/k=
+set IOTHUB_DEVICE_SECURITY_TYPE=connectionString
